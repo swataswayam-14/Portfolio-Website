@@ -131,7 +131,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2023 - Present",
     points: [
-      "1.Developed and maintained 3 web applications (membership portal, event registration system, and internal communication platform) using HTML, CSS, and JavaScript (React.js) for the front-end and Express.js for the back-end, for the Google Developer Student Clubs (GDSC) of my college.",
+      "Developed and maintained 3 web applications (membership portal, event registration system, and internal communication platform) using HTML, CSS, and JavaScript (React.js) for the front-end and Express.js for the back-end, for the Google Developer Student Clubs (GDSC) of my college.",
 
       "Developed and delivered web development workshops for college students, covering core front-end and back-end concepts.",
       "Led hands-on coding sessions to guide students in building functional web applications.",
@@ -176,7 +176,7 @@ const projects = [
   {
     name: "Elevators Media Landing Page",
     description:
-      "Complete website for our client PSS Financial Services developed using Next.js",
+      "Landing Page for our client Elevators Media made using Next.js.",
     tags: [
       {
         name: "tailwindcss",
