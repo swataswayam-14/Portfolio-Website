@@ -156,7 +156,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Made the complete website on time, Improved user interface and color combinations were just apt for our financial website",
+      "During his internship as a full stack web developer, Swata Swayam Dash has consistently demonstrated exceptional skills and dedication. He excels in both frontend and backend technologies, delivers high-quality code, communicates effectively, meets deadlines, and shows a proactive problem-solving approach. Swayam is a valuable asset to our team and highly recommended for future opportunities in web development",
     name: "Srimanta Nayak",
     designation: "",
     company: "PSS Financial Services",
