@@ -221,7 +221,7 @@ const projects = [
       },
     ],
     image: PSSWeb,
-    source_code_link: "https://pss-nextjs-app.vercel.app/",
+    source_code_link: "https://vercel.com/swata-swayam-dashs-projects/pssfinancialserviceshomepage",
   },
   {
     name: "INSIGHT ED: EDTECH PLATFORM FOR PERSONALIZED EDUCATION",
